@@ -5,9 +5,9 @@
 /.pnp
 .pnp.js
 /.eslintrc.js
-/.Lab1.docx
-/.Lab1.pdf
-/.main.py
+/Lab1.docx
+/Lab1.pdf
+/main.py
 # testing
 /coverage
 
